@@ -1,1 +1,1 @@
-# hw1
+# hw1 hi, i created a website for Stan's Donuts. It includes a homepage, a menu for monthly specials, and a page introducing the local team at the donut shop.
