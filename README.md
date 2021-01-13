@@ -1,1 +1,1 @@
-# hw1 hi, i created a website for Stan's Donuts. It includes a homepage, a menu for monthly specials, and a page introducing the local team at the donut shop.
+# hw1: I created 3 webpages for Stan's Donuts. The homepage showcases the Stan's logo and gives customers the option of viewing 3 specialty donut flavors (some real, some make-believe) or viewing 3 popular Stan's locations in Chicago.
