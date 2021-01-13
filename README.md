@@ -1,1 +1,1 @@
-# hw1: I created 3 webpages for Stan's Donuts. The homepage showcases the Stan's logo and gives customers the option of viewing 3 specialty donut flavors (some real, some make-believe) or viewing 3 popular Stan's locations in Chicago.
+# hw1: I created 3 webpages for Stan's Donuts. The homepage showcases the Stan's logo and gives customers the option of viewing a list of specialty donut flavors (some real, some make-believe) or viewing a list of popular Stan's locations in Chicago.
